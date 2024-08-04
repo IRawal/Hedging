@@ -1,0 +1,4 @@
+(executable
+ (name test_engine)
+ (libraries engine)
+ (modules test_engine))
